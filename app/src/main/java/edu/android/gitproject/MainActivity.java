@@ -7,7 +7,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
     
-    prviate TextView textView;
+    private TextView textView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
